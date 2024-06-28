@@ -45,7 +45,7 @@
 
 ![세미메인](https://github.com/urim96/MocaDream/assets/157820470/d297f84f-9384-4b94-8903-fa481f8a877e)
 
-<br><br>
+<br><br><br>
 
 ### :clipboard: 이용 안내 화면 
 
@@ -57,6 +57,17 @@
 
 https://github.com/urim96/MocaDream/assets/157820470/a8274ada-7190-426c-9b08-a9c4710b90c8
 
-### :boom: 예약취소
+<br>
+
+![예약하기1](https://github.com/urim96/MocaDream/assets/157820470/32493571-7b65-4d64-819b-1b8c9ef60a39)
+
+<br><br><br>
+
+### :boom: 전체 예약 내역 조회, 예약취소
+
+<br>
+
+-전체 예약 내역 조회가 가능하며 페이징 처리가 되어있습니다.
+-당일 취소는 불가하여 오늘 날짜 이후의 예약 내역에만 취소 버튼이 생기도록 하였습니다.
 
 [![취소1](https://github.com/urim96/MocaDream/assets/157820470/42ffd0ff-1fb6-4009-b940-a7f068202e2f)](https://github.com/urim96/MocaDream/assets/157820470/9fe7a17a-186a-45f6-b5a2-426c52833b7d)
