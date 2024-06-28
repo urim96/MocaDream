@@ -49,3 +49,9 @@
 ### :clipboard: 이용 안내 화면 
 
 ![이용안내](https://github.com/urim96/MocaDream/assets/157820470/ca803dcd-e145-4087-80aa-fe6eee6d09bb)
+
+<br><br><br>
+
+### 예약하기
+
+https://github.com/urim96/MocaDream/assets/157820470/a8274ada-7190-426c-9b08-a9c4710b90c8
