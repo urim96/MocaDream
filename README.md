@@ -52,6 +52,10 @@
 
 <br><br><br>
 
-### 예약하기
+### :calendar: 예약하기
 
 https://github.com/urim96/MocaDream/assets/157820470/a8274ada-7190-426c-9b08-a9c4710b90c8
+
+### :boom: 예약취소
+
+![취소1](https://github.com/urim96/MocaDream/assets/157820470/42ffd0ff-1fb6-4009-b940-a7f068202e2f)
